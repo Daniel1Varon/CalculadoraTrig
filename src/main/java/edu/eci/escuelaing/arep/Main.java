@@ -18,7 +18,6 @@ public class Main {
             return jsonObject;
 
         });
-
     }
 
     static int getPort() {
